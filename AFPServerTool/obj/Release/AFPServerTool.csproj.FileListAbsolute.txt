@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\bin\Release\AFPServerTool.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\bin\Release\AFPServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\bin\Release\AFPServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\bin\Release\System.Net.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\obj\Release\AFPServerTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\obj\Release\AFPServerTool.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\obj\Release\AFPServerTool.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\obj\Release\AFPServerTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\obj\Release\AFPServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AFPServerTool\AFPServerTool\obj\Release\AFPServerTool.pdb
